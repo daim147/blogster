@@ -30,7 +30,7 @@
 		"mongoose": "^6.x.x",
 		"morgan": "^1.10.0",
 		"nodemon": "^2.0.20",
-		"passport": "0.5.3",
+		"passport": "0.6.0",
 		"passport-google-oauth20": "^2.0.0",
 		"path-parser": "^2.0.2",
 		"puppeteer": "^1.0.0",
